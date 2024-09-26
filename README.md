@@ -1,6 +1,6 @@
 # Juego de Ahorcado en JAVA
 
-En este proyecto se realizó un juego en el cual el jugador debe adivinar una palabra y escribir una letra a la vez en la consola, si el jugador escribe una letra que no contenga la palabra que debe adivinar el jugador pierde un intento, el jugador tiene diez intentos, si el jugador falla diez veces automáticamente en la consola se mostrará el siguiente texto: "Te has quedado sin intentos, Perdiste"
+Este proyecto implementa un juego de adivinanza de palabras en el cual el jugador debe descubrir una palabra secreta ingresando una letra a la vez a través de la consola. Cada vez que el jugador introduce una letra incorrecta, pierde un intento. El jugador dispone de un total de 10 intentos. Si se agotan los intentos sin haber adivinado la palabra, el juego finaliza automáticamente con el siguiente mensaje en consola: "Te has quedado sin intentos, Perdiste".
 
 # Herramientas utilizadas en este proyecto JAVA
 
